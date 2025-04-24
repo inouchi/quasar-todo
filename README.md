@@ -2,7 +2,7 @@
 
 **_quasar-todo_** is a sample todo app built with the Vue and Quasar framework.  
 This program is originally from https://quasar.dev/video-tutorials.  
-See https://quasar-todo-app.tk for the live version.
+See https://quasar-todo.pages.dev for the live version.
 
 ## Install the dependencies
 
